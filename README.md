@@ -2,7 +2,7 @@
 
 This repository documents a project to build and deploy a machine learning model for network intrusion detection. The entire project was completed without writing any code, using the automated capabilities of IBM Watson Studio's AutoAI tool.
 
-## Problem Statement
+## The Challenge
 
 The challenge was to create a robust network intrusion detection system (NIDS) using machine learning. The system needed to be capable of analyzing network traffic data to distinguish between normal activity and various types of cyber-attacks. The goal was to build a model that could effectively secure communication networks by providing an early warning of malicious activities. 
 
