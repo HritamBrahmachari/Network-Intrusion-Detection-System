@@ -4,9 +4,9 @@ This repository documents a project to build and deploy a machine learning model
 
 ## Problem Statement
 
-[cite_start]The challenge was to create a robust network intrusion detection system (NIDS) using machine learning. [cite: 229] [cite_start]The system needed to be capable of analyzing network traffic data to distinguish between normal activity and various types of cyber-attacks. [cite: 229] [cite_start]The goal was to build a model that could effectively secure communication networks by providing an early warning of malicious activities. [cite: 230]
+The challenge was to create a robust network intrusion detection system (NIDS) using machine learning.The system needed to be capable of analyzing network traffic data to distinguish between normal activity and various types of cyber-attacks.The goal was to build a model that could effectively secure communication networks by providing an early warning of malicious activities. 
 
-[cite_start]The mandatory technology for this project was the use of IBM Cloud lite services. [cite: 231]
+The mandatory technology for this project was the use of IBM Cloud lite services. 
 
 ## Methodology: A No-Code Approach
 
@@ -21,8 +21,8 @@ This project utilized a no-code, cloud-based methodology to ensure rapid develop
 ### Dataset
 
 * **Name:** Network Intrusion Detection
-* [cite_start]**Source:** The project used a dataset from Kaggle, as specified in the project requirements. [cite: 231]
-    * [cite_start]**Link:** `https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection` [cite: 231]
+* **Source:** The project used a dataset from Kaggle, as specified in the project requirements. 
+    * **Link:** `https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection` 
 * **Description:** The dataset contains records of network connections, each with 41 features and a `class` label indicating if the traffic was `normal` or an `anomaly`.
 
 ## Steps to Replicate
